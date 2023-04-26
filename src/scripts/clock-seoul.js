@@ -1,6 +1,6 @@
 const getCurrentTime = () => {
   const options = {
-    timeZone: "Asia/Seoul",
+    timeZone: "America/New_York",
     hour12: true,
     weekday: "long",
     month: "long",
